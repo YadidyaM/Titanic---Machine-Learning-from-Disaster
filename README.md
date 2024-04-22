@@ -31,7 +31,7 @@ Follow these steps to run the project:
 1. Clone this repository to your local machine:
 
     ```
-    git clone https://github.com//titanic-survival-prediction.git
+    git clone https://github.com/YadidyaM/Titanic---Machine-Learning-from-Disaster
     ```
 
 2. Navigate to the project directory:
